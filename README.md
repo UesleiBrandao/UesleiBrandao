@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco especial n
 
 <p align="left">
   <a href="https://github.com/UesleiBrandao">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UesleiBrandao&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
