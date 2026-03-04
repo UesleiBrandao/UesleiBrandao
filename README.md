@@ -3,14 +3,6 @@
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UesleiBrandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UesleiBrandao&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
 ### 🚀 Sobre Mim
 
 Meu nome é **Ueslei Brandão**, tenho 25 anos e sou natural de Seabra, Bahia. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas no IFBA – Campus Seabra**.
@@ -46,15 +38,17 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco especial n
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UesleiBrandao&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UesleiBrandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UesleiBrandao&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UesleiBrandao&layout=donut&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=UesleiBrandao&theme=dracula&hide_border=true&locale=pt_BR" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/UesleiBrandao?template=classic&languages=1&isocalendar=1&base=header%2Cactivity%2Ccommunity%2Crepositories&config.timezone=America%2FSao_Paulo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UesleiBrandao&theme=dracula&hide_border=true" />
 </p>
 
 ---
